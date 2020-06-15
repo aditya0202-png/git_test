@@ -1,0 +1,1 @@
+Hello Git, I feel welcomed when getting introduced to the Git and GitHub world!
